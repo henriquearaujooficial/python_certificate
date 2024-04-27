@@ -1,6 +1,6 @@
 # Certificado em Python
 # Projeto Integrador onde iermos usar o serviço Python na geração dos certificados 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriquearaujooficial/Portfolio/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriquearaujooficial/python_certificate/blob/main/LICENSE)
 
 ## 🛠️ Projeto construído usando:
 - Python
