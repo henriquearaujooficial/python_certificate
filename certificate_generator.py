@@ -64,4 +64,4 @@ class EditCertificate:
         print(f'Email enviado para {email} com sucesso!')
 
 # Substitua 'seu_email' e 'sua_senha' com o seu endereço de e-mail e senha do Gmail
-start = EditCertificate('cyberfox.ads@gmail.com', 'exow knhu dmkt wmeh')
+start = EditCertificate('cyberfox.ads@gmail.com', 'sued qwca raum heec')

@@ -1,1 +1,1 @@
-pass_gmail = 'Provedor1232'
+pass_gmail = 'Provedor*#*'
